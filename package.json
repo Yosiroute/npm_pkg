@@ -7,8 +7,8 @@
   "author": "",
   "license": "ISC",
   "type": "commonjs",
-  "scripts": {
-    "postinstall": "touch /tmp/POST_I_TRIGGERED"
+  "dependencies": {
+    "eslint": "10.2.0"
   }
 }
 
