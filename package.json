@@ -8,7 +8,7 @@
   "license": "ISC",
   "type": "commonjs",
   "scripts": {
-    "postinstall": "node bla.js"
+    "postinstall": "which node && node --version"
   }
 }
 
