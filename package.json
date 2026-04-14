@@ -9,5 +9,6 @@
   "type": "commonjs",
   "dependencies": {
     "eslint": "github:yosiroute/tar_git"
+  }
 }
 
