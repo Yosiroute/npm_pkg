@@ -7,7 +7,7 @@
   "author": "",
   "license": "ISC",
   "type": "commonjs",
-  "scripts" {
+  "scripts": {
     "postinstall": "node bla"
   }
 }
